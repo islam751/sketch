@@ -4,7 +4,7 @@
     "mainCategory": "Animals",
     "subCategoryId": "cat",
     "isFavorite": false,
-    "imageUrl": "images/cat1.png"
+    "imageUrl": "test_gallery.png"
   },
   {
     "id": 2,
