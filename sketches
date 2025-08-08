@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "mainCategory": "Animals",
+    "subCategoryId": "cat001",
+    "isFavorite": false,
+    "imageUrl": "test_gallery.png"
+  },
+  {
+    "id": 2,
+    "mainCategory": "Animals",
+    "subCategoryId": "dog001",
+    "isFavorite": false,
+    "imageUrl": "dog.png"
+  },
+  {
+    "id": 3,
+    "mainCategory": "Nature",
+    "subCategoryId": "tree001",
+    "isFavorite": false,
+    "imageUrl": "tree.png"
+  }
+]
