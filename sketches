@@ -2,22 +2,16 @@
   {
     "id": 1,
     "mainCategory": "Animals",
-    "subCategoryId": "cat001",
+    "subCategoryId": "cat",
     "isFavorite": false,
-    "imageUrl": "test_gallery.png"
+    "imageUrl": "images/cat1.png"
   },
   {
     "id": 2,
     "mainCategory": "Animals",
-    "subCategoryId": "dog001",
+    "subCategoryId": "dog",
     "isFavorite": false,
-    "imageUrl": "dog.png"
-  },
-  {
-    "id": 3,
-    "mainCategory": "Nature",
-    "subCategoryId": "tree001",
-    "isFavorite": false,
-    "imageUrl": "tree.png"
+    "imageUrl": "images/dog1.png"
   }
 ]
+
