@@ -1,17 +1,255 @@
 [
   {
     "id": 1,
-    "mainCategory": "Animals",
-    "subCategoryId": "cat",
-    "isFavorite": false,
-    "imageUrl": "test_gallery.png"
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog0.jpg"
   },
   {
     "id": 2,
-    "mainCategory": "Animals",
-    "subCategoryId": "dog",
-    "isFavorite": false,
-    "imageUrl": "images/dog1.png"
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog1.jpg"
+  },
+  {
+    "id": 3,
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog2.jpg"
+  },
+  {
+    "id": 4,
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog3.jpg"
+  },
+  {
+    "id": 5,
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog4.jpg"
+  },
+  {
+    "id": 6,
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog5.jpg"
+  },
+  {
+    "id": 7,
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog6.jpg"
+  },
+  {
+    "id": 8,
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog7.jpg"
+  },
+  {
+    "id": 9,
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog8.jpg"
+  },
+  {
+    "id": 10,
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog9.jpg"
+  },
+  {
+    "id": 11,
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog10.jpg"
+  },
+  {
+    "id": 12,
+    "mainCategory": "animals",
+    "subCategoryId": "dogs",
+    "imageUrl": "animals/dogs/dog11.jpg"
+  },
+
+  {
+    "id": 13,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat0.jpg"
+  },
+  {
+    "id": 14,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat1.jpg"
+  },
+  {
+    "id": 15,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat2.jpg"
+  },
+  {
+    "id": 16,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat3.jpg"
+  },
+  {
+    "id": 17,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat4.jpg"
+  },
+  {
+    "id": 18,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat5.jpg"
+  },
+  {
+    "id": 19,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat6.jpg"
+  },
+  {
+    "id": 20,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat7.jpg"
+  },
+  {
+    "id": 21,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat8.jpg"
+  },
+  {
+    "id": 22,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat9.jpg"
+  },
+  {
+    "id": 23,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat10.jpg"
+  },
+  {
+    "id": 24,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat11.jpg"
+  },
+  {
+    "id": 25,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat12.jpg"
+  },
+  {
+    "id": 26,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat13.jpg"
+  },
+  {
+    "id": 27,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat14.jpg"
+  },
+  {
+    "id": 28,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat15.jpg"
+  },
+  {
+    "id": 29,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat16.jpg"
+  },
+  {
+    "id": 30,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat17.jpg"
+  },
+  {
+    "id": 31,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat18.jpg"
+  },
+  {
+    "id": 32,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat19.jpg"
+  },
+  {
+    "id": 33,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat20.jpg"
+  },
+  {
+    "id": 34,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat21.jpg"
+  },
+  {
+    "id": 35,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat22.jpg"
+  },
+  {
+    "id": 36,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat23.jpg"
+  },
+  {
+    "id": 37,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat24.jpg"
+  },
+  {
+    "id": 38,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat25.jpg"
+  },
+  {
+    "id": 39,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat26.jpg"
+  },
+  {
+    "id": 40,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat27.jpg"
+  },
+  {
+    "id": 41,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat28.jpg"
+  },
+  {
+    "id": 42,
+    "mainCategory": "animals",
+    "subCategoryId": "cat",
+    "imageUrl": "animals/cat/cat29.jpg"
   }
 ]
-
