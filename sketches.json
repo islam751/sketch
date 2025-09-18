@@ -1120,5 +1120,11 @@
   "mainCategory": "lofy",
   "subCategoryId": "Lofy",
   "imageUrl": "luffy/luffy29.jpg"
+},
+ {
+  "id": 188,
+  "mainCategory": "hollywood",
+  "subCategoryId": "hollywood",
+  "imageUrl": "hollywood/hollywood (1).jpg"
 }
 ]
