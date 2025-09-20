@@ -1270,5 +1270,107 @@
   "mainCategory": "hollywood",
   "subCategoryId": "hollywood",
   "imageUrl": "hollywood/hollywood (25).jpg"
-}
+},
+   {
+  "id": 213,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (1).jpg"
+},
+   {
+  "id": 214,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (2).jpg"
+},
+   {
+  "id": 215,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (3).jpg"
+},
+   {
+  "id": 216,
+ "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (4).jpg"
+},
+   {
+  "id": 217,
+ "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (5).jpg"
+},
+   {
+  "id": 218,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (6).jpg"
+},
+   {
+  "id": 219,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (7).jpg"
+},
+   {
+  "id": 220,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (8).jpg"
+},
+   {
+  "id": 221,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (9).jpg"
+},
+   {
+  "id": 222,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (10).jpg"
+},
+   {
+  "id": 223,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (11).jpg"
+},
+   {
+  "id": 224,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (12).jpg"
+},
+   {
+  "id": 225,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (13).jpg"
+},
+   {
+  "id": 226,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (14).jpg"
+},
+   {
+  "id": 227,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (15).jpg"
+},
+   {
+  "id": 228,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (16).jpg"
+},
+    {
+  "id": 229,
+  "mainCategory": "Batman",
+  "subCategoryId": "Batman",
+  "imageUrl": "Batman/batman (17).jpg"
+} 
 ]
