@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "mainCategory": "animals🐈",
+    "mainCategory": "animals",
     "subCategoryId": "Dogs",
     "imageUrl": "https://i.pinimg.com/736x/f0/d3/10/f0d31065516823302f30137b2b3f9e2b.jpg"
   },
   {
     "id": 2,
-    "mainCategory": "animals",
+    "mainCategory": "animals🐈",
     "subCategoryId": "Dogs",
     "imageUrl": "animals/dogs/dog1.jpg"
   },
@@ -1804,5 +1804,492 @@
     "mainCategory": "DC",
     "subCategoryId": "DC",
     "imageUrl": "DC/dc (1).png"
+  },
+  {
+    "id": 302,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (2).jpg"
+  },
+
+   {
+    "id": 303,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (3).jpg"
+  },
+  {
+    "id": 304,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (4).jpg"
+  },
+  {
+    "id": 305,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (5).jpg"
+  },
+  {
+    "id": 306,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (6).jpg"
+  },
+  {
+    "id": 307,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (7).jpg"
+  },
+  {
+    "id": 308,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (8).jpg"
+  },
+  {
+    "id": 309,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (9).jpg"
+  },
+  {
+    "id": 310,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (10).jpg"
+  },
+  {
+    "id": 311,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (11).jpg"
+  },
+  {
+    "id": 312,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (12).jpg"
+  },
+  {
+    "id": 313,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (13).jpg"
+  },
+  {
+    "id": 314,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (14).jpg"
+  },
+  {
+    "id": 315,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (15).jpg"
+  },
+  {
+    "id": 316,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (16).jpg"
+  },
+  {
+    "id": 317,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (17).jpg"
+  },
+  {
+    "id": 318,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (18).jpg"
+  },
+  {
+    "id": 319,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (19).jpg"
+  },
+  {
+    "id": 320,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (20).jpg"
+  },
+  {
+    "id": 321,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (21).jpg"
+  },
+  {
+    "id": 322,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (22).jpg"
+  },
+  {
+    "id": 323,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (23).jpg"
+  },
+  {
+    "id": 324,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (24).jpg"
+  },
+  {
+    "id": 325,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (25).jpg"
+  },
+  {
+    "id": 326,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (26).jpg"
+  },
+  {
+    "id": 327,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (27).jpg"
+  },
+  {
+    "id": 328,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (28).jpg"
+  },
+  {
+    "id": 329,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (29).jpg"
+  },
+  {
+    "id": 330,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (30).jpg"
+  },
+  {
+    "id": 331,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (31).jpg"
+  },
+  {
+    "id": 332,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (32).jpg"
+  },
+  {
+    "id": 333,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (33).jpg"
+  },
+  {
+    "id": 334,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (34).jpg"
+  },
+  {
+    "id": 335,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (35).jpg"
+  },
+  {
+    "id": 336,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (36).jpg"
+  },
+  {
+    "id": 337,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (37).jpg"
+  },
+  {
+    "id": 338,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (38).jpg"
+  },
+  {
+    "id": 339,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (39).jpg"
+  },
+  {
+    "id": 340,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (40).jpg"
+  },
+  {
+    "id": 341,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (41).jpg"
+  },
+  {
+    "id": 342,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (42).jpg"
+  },
+  {
+    "id": 343,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (43).jpg"
+  },
+  {
+    "id": 344,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (44).jpg"
+  },
+  {
+    "id": 345,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (45).jpg"
+  },
+  {
+    "id": 346,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (46).jpg"
+  },
+  {
+    "id": 347,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (47).jpg"
+  },
+  {
+    "id": 348,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (48).jpg"
+  },
+  {
+    "id": 349,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (49).jpg"
+  },
+  {
+    "id": 350,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (50).jpg"
+  },
+  {
+    "id": 351,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (51).jpg"
+  },
+  {
+    "id": 352,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (52).jpg"
+  },
+  {
+    "id": 353,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (53).jpg"
+  },
+  {
+    "id": 354,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (54).jpg"
+  },
+  {
+    "id": 355,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (55).jpg"
+  },
+  {
+    "id": 356,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (56).jpg"
+  },
+  {
+    "id": 357,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (57).jpg"
+  },
+  {
+    "id": 358,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (58).jpg"
+  },
+  {
+    "id": 359,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (59).jpg"
+  },
+  {
+    "id": 360,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (60).jpg"
+  },
+  {
+    "id": 361,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (61).jpg"
+  },
+  {
+    "id": 362,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (62).jpg"
+  },
+  {
+    "id": 363,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (63).jpg"
+  },
+  {
+    "id": 364,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (64).jpg"
+  },
+  {
+    "id": 365,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (65).jpg"
+  },
+  {
+    "id": 366,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (66).jpg"
+  },
+  {
+    "id": 367,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (67).jpg"
+  },
+  {
+    "id": 368,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (68).jpg"
+  },
+  {
+    "id": 369,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (69).jpg"
+  },
+  {
+    "id": 370,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (70).jpg"
+  },
+  {
+    "id": 371,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (71).jpg"
+  },
+  {
+    "id": 372,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (72).jpg"
+  },
+  {
+    "id": 373,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (73).jpg"
+  },
+  {
+    "id": 374,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (74).jpg"
+  },
+  {
+    "id": 375,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (75).jpg"
+  },
+  {
+    "id": 376,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (76).jpg"
+  },
+  {
+    "id": 377,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (77).jpg"
+  },
+  {
+    "id": 378,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (78).jpg"
+  },
+  {
+    "id": 379,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (79).jpg"
+  },
+  {
+    "id": 380,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (80).jpg"
+  },
+  {
+    "id": 381,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal (81).jpg"
+  },
+   {
+    "id": 382,
+    "mainCategory": "Animal🐕",
+    "subCategoryId": "Animal",
+    "imageUrl": "Animal1/animal.jpg"
   }
 ]
