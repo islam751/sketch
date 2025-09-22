@@ -1372,5 +1372,437 @@
   "mainCategory": "Batman",
   "subCategoryId": "Batman",
   "imageUrl": "Batman/batman (17).jpg"
-} 
+},
+   {
+    "id": 230,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (1).jpg"
+  },
+  {
+    "id": 231,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (2).jpg"
+  },
+  {
+    "id": 232,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (3).jpg"
+  },
+  {
+    "id": 233,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (4).jpg"
+  },
+  {
+    "id": 234,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (5).jpg"
+  },
+  {
+    "id": 235,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (6).jpg"
+  },
+  {
+    "id": 236,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (7).jpg"
+  },
+  {
+    "id": 237,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (8).jpg"
+  },
+  {
+    "id": 238,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (9).jpg"
+  },
+  {
+    "id": 239,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (10).jpg"
+  },
+  {
+    "id": 240,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (11).jpg"
+  },
+  {
+    "id": 241,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (12).jpg"
+  },
+  {
+    "id": 242,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (13).jpg"
+  },
+  {
+    "id": 243,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (14).jpg"
+  },
+  {
+    "id": 244,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (15).jpg"
+  },
+  {
+    "id": 245,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (16).jpg"
+  },
+  {
+    "id": 246,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (17).jpg"
+  },
+  {
+    "id": 247,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (18).jpg"
+  },
+  {
+    "id": 248,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (19).jpg"
+  },
+  {
+    "id": 249,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (20).jpg"
+  },
+  {
+    "id": 250,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (21).jpg"
+  },
+  {
+    "id": 251,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (22).jpg"
+  },
+  {
+    "id": 252,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (23).jpg"
+  },
+  {
+    "id": 253,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (24).jpg"
+  },
+  {
+    "id": 254,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (25).jpg"
+  },
+  {
+    "id": 255,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (26).jpg"
+  },
+  {
+    "id": 256,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (27).jpg"
+  },
+  {
+    "id": 257,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (28).jpg"
+  },
+  {
+    "id": 258,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (29).jpg"
+  },
+  {
+    "id": 259,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (30).jpg"
+  },
+  {
+    "id": 260,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (31).jpg"
+  },
+  {
+    "id": 261,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (32).jpg"
+  },
+  {
+    "id": 262,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (33).jpg"
+  },
+  {
+    "id": 263,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (34).jpg"
+  },
+  {
+    "id": 264,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (35).jpg"
+  },
+  {
+    "id": 265,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (36).jpg"
+  },
+  {
+    "id": 266,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (37).jpg"
+  },
+  {
+    "id": 267,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (38).jpg"
+  },
+  {
+    "id": 268,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (39).jpg"
+  },
+  {
+    "id": 269,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (40).jpg"
+  },
+  {
+    "id": 270,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (41).jpg"
+  },
+  {
+    "id": 271,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (42).jpg"
+  },
+  {
+    "id": 272,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (43).jpg"
+  },
+  {
+    "id": 273,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (44).jpg"
+  },
+  {
+    "id": 274,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (45).jpg"
+  },
+  {
+    "id": 275,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (46).jpg"
+  },
+  {
+    "id": 276,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (47).jpg"
+  },
+  {
+    "id": 277,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (48).jpg"
+  },
+  {
+    "id": 278,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (49).jpg"
+  },
+  {
+    "id": 279,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (50).jpg"
+  },
+  {
+    "id": 280,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (51).jpg"
+  },
+  {
+    "id": 281,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (52).jpg"
+  },
+  {
+    "id": 282,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (53).jpg"
+  },
+  {
+    "id": 283,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (54).jpg"
+  },
+  {
+    "id": 284,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (55).jpg"
+  },
+  {
+    "id": 285,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (56).jpg"
+  },
+  {
+    "id": 286,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (57).jpg"
+  },
+  {
+    "id": 287,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (58).jpg"
+  },
+  {
+    "id": 288,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (59).jpg"
+  },
+  {
+    "id": 289,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (60).jpg"
+  },
+  {
+    "id": 290,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (61).jpg"
+  },
+  {
+    "id": 291,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (62).jpg"
+  },
+  {
+    "id": 292,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (63).jpg"
+  },
+  {
+    "id": 293,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (64).jpg"
+  },
+  {
+    "id": 294,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (65).jpg"
+  },
+  {
+    "id": 295,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (66).jpg"
+  },
+  {
+    "id": 296,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (67).jpg"
+  },
+  {
+    "id": 297,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (68).jpg"
+  },
+  {
+    "id": 298,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (69).jpg"
+  },
+  {
+    "id": 299,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (70).jpg"
+  },
+  {
+    "id": 300,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (71).jpg"
+  },
+  {
+    "id": 301,
+    "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "DC/dc (1).png"
+  }
 ]
