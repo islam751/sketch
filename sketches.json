@@ -7,7 +7,7 @@
   },
   {
     "id": 2,
-    "mainCategory": "animals🐈",
+    "mainCategory": "animals🦁",
     "subCategoryId": "Dogs",
     "imageUrl": "animals/dogs/dog1.jpg"
   },
@@ -1273,7 +1273,7 @@
 },
    {
   "id": 213,
-  "mainCategory": "Batman🦇",
+  "mainCategory": "Batman🖤",
   "subCategoryId": "Batman",
   "imageUrl": "Batman/batman (1).jpg"
 },
