@@ -3,7 +3,7 @@
     "id": 1,
     "mainCategory": "animals",
     "subCategoryId": "Dogs",
-    "imageUrl": "https://i.pinimg.com/736x/f0/d3/10/f0d31065516823302f30137b2b3f9e2b.jpg"
+    "imageUrl": "animals/dogs/dog.jpg"
   },
   {
     "id": 2,
@@ -5601,5 +5601,5 @@
     "mainCategory": "Assassincreed",
     "subCategoryId": "Assassincreed",
     "imageUrl": "Assassincreed/assassincreed (30).jpg"
-  },
+  }
 ]
