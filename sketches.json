@@ -1723,8 +1723,9 @@
   },
   {
     "id": 288,
-    "mainCategory": "DC",
-    "subCategory
+     "mainCategory": "DC",
+    "subCategoryId": "DC",
+    "imageUrl": "dc/dc58.jpg"
   },
   {
     "id": 289,
